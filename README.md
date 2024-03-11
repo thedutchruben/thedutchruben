@@ -8,6 +8,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDutchRuben&theme=dark&layout=compact&langs_count=8">
   <img src="https://api.mcbanners.com/banner/saved/rtTagNMMJcrDec.png">
+    
 </p>
 
-
+### Visitor count
+<img src="https://profile-counter.glitch.me/thedutchruben/count.svg" />
