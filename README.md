@@ -12,3 +12,6 @@
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/thedutchruben/count.svg" />
+<p align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
+</p>
