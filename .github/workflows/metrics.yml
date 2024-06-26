@@ -42,10 +42,10 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 100
           plugin_code_visibility: public
-          plugin_discussions: yes
+          plugin_discussions: no
           plugin_followup: yes
           plugin_followup_sections: repositories
-          plugin_gists: yes
+          plugin_gists: no
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
@@ -65,7 +65,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_from: organization
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
@@ -74,9 +74,9 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_projects: yes
+          plugin_projects: no
           plugin_projects_limit: 4
-          plugin_reactions: yes
+          plugin_reactions: no
           plugin_reactions_display: absolute
           plugin_reactions_ignored: dependabot-preview[bot]
           plugin_reactions_limit: 200
