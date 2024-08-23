@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 */6 * * 1-4"},{cron: "0 6-23 * * 5,6,0"}]
+  schedule: [{cron: "0 */4 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -58,17 +58,17 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 99
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 365
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: no
           plugin_notable_from: organization
-          plugin_pagespeed: yes
-          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed: no
+          plugin_pagespeed_screenshot: no
           plugin_pagespeed_url: .user.website
           plugin_people: yes
           plugin_people_limit: 24
