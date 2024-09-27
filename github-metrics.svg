@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ Spigot plugin maker</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2365 Commits
+                            2366 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ Spigot plugin maker</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.48m added, 19.3k removed
+                                    30.1k added, 13.2k removed
                                 </div>
                             </section>
                             <section>
@@ -293,13 +293,13 @@ Spigot plugin maker</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="27.552182163187858" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="27.552182163187858" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="27.552182163187858" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="27.552182163187858" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="27.552182163187858" y="0" width="118.24478178368122" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="145.79696394686908" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="145.79696394686908" y="0" width="74.20303605313093" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="27.539118065433854" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="27.539118065433854" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="27.539118065433854" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="27.539118065433854" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="27.539118065433854" y="0" width="118.29302987197724" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="145.8321479374111" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="145.8321479374111" y="0" width="74.1678520625889" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -326,7 +326,7 @@ Spigot plugin maker</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1133 <small>closed</small></span>
+                                <span class="no-wrap">1134 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -347,14 +347,14 @@ Spigot plugin maker</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="166.026423608517" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="166.026423608517" y="0" width="79.711246918192" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="245.737670526709" y="0" width="77.17415016809862" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="322.9118206948076" y="0" width="62.90953355746482" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.82135425227244" y="0" width="34.588059270327484" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="420.40941352259995" y="0" width="20.088190262731914" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.4976037853319" y="0" width="14.700296351637405" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="455.1979001369693" y="0" width="4.802099863030756" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.95533826875302" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="165.95533826875302" y="0" width="79.87407012809854" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="245.82940839685156" y="0" width="77.14110753207441" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="322.970515928926" y="0" width="62.88259841382846" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.8531143427544" y="0" width="34.57325015806951" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="420.4263645008239" y="0" width="20.079589367771742" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.50595386859567" y="0" width="14.694002320012347" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="455.199956188608" y="0" width="4.800043811391958" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2718,7 +2718,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2024, 14:07:44 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2024, 18:05:18 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
