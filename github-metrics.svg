@@ -191,7 +191,7 @@ Spigot plugin maker</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.08k added, 116 removed
+                                    31k added, 4.73k removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@ Spigot plugin maker</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    300 views in last two weeks
+                                    301 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -347,14 +347,14 @@ Spigot plugin maker</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.6326022173124" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="156.6326022173124" y="0" width="78.38728442665548" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="235.0198866439679" y="0" width="75.00878974438976" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="310.0286763883576" y="0" width="59.91934448599308" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="369.94802087435073" y="0" width="32.63105722214756" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="402.5790780964983" y="0" width="29.06684735466567" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="431.6459254511639" y="0" width="23.71837106385698" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.3642965150209" y="0" width="4.635703484979057" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.59113227181558" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="156.59113227181558" y="0" width="78.36653066041015" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="234.9576629322257" y="0" width="74.98893046619067" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="309.9465933984164" y="0" width="59.91973037764942" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="369.86632377606577" y="0" width="32.62241784474241" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="402.48874162080824" y="0" width="29.164690836620746" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="431.65343245742895" y="0" width="23.71209140341996" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.3655238608489" y="0" width="4.634476139151049" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2720,7 +2720,7 @@ Spigot plugin maker</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2024, 09:06:14 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2024, 13:07:19 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
