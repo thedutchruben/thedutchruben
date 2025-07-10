@@ -4,6 +4,3 @@
 <p align="center">
   <img src="https://api.mcbanners.com/banner/saved/rtTagNMMJcrDec.png">
 </p>
-
-### Visitor count
-<img src="https://profile-counter.glitch.me/thedutchruben/count.svg" />
