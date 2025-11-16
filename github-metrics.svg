@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ Spigot plugin maker</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2622 Commits
+                            2624 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -95,7 +95,7 @@ Spigot plugin maker</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            82 Pull requests opened
+                            84 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -524,7 +524,7 @@ Spigot plugin maker</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3.15
+                            Average per day at ~3.14
                         </div>
                     </section>
                 </div>
@@ -2499,6 +2499,11 @@ Spigot plugin maker</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2543,7 +2548,7 @@ Spigot plugin maker</div>
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAjElEQVR4nGN4amlKdcQwaujTIR6mFiaEEamGvm9p/HnpIh70oaeLZEM/zZrxHy/4snQxyYa+LS74un4dBP08dxZi0K/Ll+CC7yrLKYqo980NEEM/TuilWuy/HzUUDEbD9OnIS1Jvy4p/3737++7d9431VDP0qYXJU3NjEMJd3JFuqCVpiGHU0KdDIkwBnnNuZx7GTzAAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCBAYD/8QALhAAAgECBQMCAwkAAAAAAAAAAQMCBBEABRIhMQYTQSKBB2GRFCMyQlJxwdHw/8QAGAEBAAMBAAAAAAAAAAAAAAAABQACAwT/xAAeEQACAQQDAQAAAAAAAAAAAAABAgADBAUhERJBMf/aAAwDAQACEQMRAD8A5w+IGWNn95QVIhbkEHf9sHcqzTKc8GmhqYCotuhvoYPbz7YU82ZWSYp7hMImdlNtsTzv/WKMaGrrZBmXVCmrBvGTNmfX/fxhOnlG52IabRfI8hlsgwa4awDuOL4q1alSfIxEFD9MDKwwt8n63z6heKTNWPqaaAMNNiZnbb1+frgs3O1MmZT+0LJ/Kv8AD7Y6TkEma2pH2ZKPQcUqEaerc2EZRsxKLsMSL6/JEeN9re+9iHRFHljg+rzYOgFyYs6oQsfAMCRO978cWwWzGsfNKkhrYQqYzLTBsxKQ29N73tvx8hgb8PXuHWFTrbNvbpe+O4bgk2uCONPywA1QrqJ9QdyEKWtq1scvNFOYti9MRIi0J3B5tqtbj5+MMKloqc0y1oqEO7Q7c5zdoJkDveMjcYw3W/V+bVEk0jpompgvcpjeOoxvpPi+M7nbGwq4lD3IE1xmYKYYxueTbEdugBHssoAn/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABgcEAAIDBQj/xAAnEAABBAEDBAEFAQAAAAAAAAABAgMEBREABiEHEhQxIhNBUYGRsf/EABkBAAIDAQAAAAAAAAAAAAAAAAAFAQIDBP/EAB8RAAMAAgEFAQAAAAAAAAAAAAECEQADIQQFFSIxcf/aAAwDAQACEQMRAD8AqNDkyQTHjPPAeyhsnH80S0m0vNgh6W5IjO5I+mW8f7rn2w311B2ZZSauXO8OYjtU60WGHMZSCOQkj0Ron23uLrLuSrTYUr3kw1KKQtLURHI98EA6XNoaWiY+8gpMANxiWFJNjzXmWIsp1pKsJcDR5GtUr4qIWClQ9jSutuqvUepspNfYWwZlx1ltxHixz2kfbITjUunidUtw1rNrWx1SoknuUh0CMnuwog8KwfYOpHTvKxGA7ivwKcf+4emm09xWz9lc1QkzXgkLd8h1OcAAcJUB6A0LWW/tn9KZStsR6uzbbaAeAYAdT8+fbjmdNckg6wSKuBKkFcqHGecIx3uNJUr+ka5V2Eer8jNX0TlID+YAQ9h7G3tFb3K7Suqcsx5JLsh1CiT+QlzA/Wjejp4NDUx6ypZ8eCwCG2+8rxlRUeVKz7J1OabbZipSy2httAwlCBhI/Wrs6o+x7AeME0oBZn//2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFUUlEQVR4nJWW+1MTVxTH84doqDMkIZsgo1bbOkylBHlbhlqrVEV540yRgC9aDK8gGCWUBIHNMihDBVGBKhTiYqLAsj5GtAqLlQaLD0B5J1nCJnd/6exuXgTtY+Y7O8nccz5zzrnn3nN5NE1+WIAEwDr7/vXvQ/jQg4E//3i2TM4DYHWJBOAjjjTJ+xjx3dTL7EN7ZBA/TMyPkPLDIH4o9En6t9GXYK3p7SRltwBgpcF/hwJyZnEhK+ngTsgvVMzgQkT80AB+hMQvXMKPkPrFR0Y03B4dIF5blpc8aPBxqN1hHXz+pkDb/LlgQ0SgICbIf7v/+mDBuu2CdXHboOy44AM7gnZK+Pv27K3quN9gGB2ZmHZyOdHeUPb/CmXpfDgOo0TElyHpoVvMHaWOgVoKgxduaykMpu8h9D3EgetKkmMjpX5743fDKAGjxN2RVw4HU2U3msduCCPKbvn1gYmzCw4KHKmRAxzxiCVy3+lutUy8XgbxK1r7YZTQoYTx2QRguE40EykLtRqeTnBEGCXS4mNs+grAUjhxYTrROBKzWRAu8Su72M1BdSgxZJp014HHQV9Oz8C3nMswSlSeyKKMWgaBryK6FbtFEAbx1WyknOp7iTnzAldGJn2Hw9qKjbmXYZSoKTjZVZZu1MjNxmoO+rRJ0V6adr0k5V23GuBIZswXMsmGOv2wt1fP45cuKE1OvJ91L3CRnso+2vbj3qrM2Ee1cgeuA4M6fdHBpp8OGDTZRq2cxpHzR+K/C/lUdfGmN1SHEguWRedG9Y288l6DUaIkPeH5tYqcnGO9FxSmtjKA1Zna1cpCRZP2DIXBAEcaTx82VmVXK+Q+jk/GJ53pXxtclTuMEqqMfQ6sDuC6qRtnX3eeZ+ro1QYARygMNlRmtVXmw7dWOerZCvAAIOt7R32gxen7HRgM7iGDulNM+hzLLZb+GD4Oayt9HFuxMRpYebYVi88CE2mx0t53AeAIWp4x13FmuCHPNlDnTaQwePhKqaqRaSlvNd55zkS6/CFoueYidbsK4MiKQTN7tch+t9qdOKeT6QfKG3vWOjZyUACsSO8aaKP+7ZVCsq9m9KqSaFU+ay4evapc7q/liBM3VKX5J3yqyekKNga43fdpUka3iM6zOYBtphV9BROpp6A6VJPTUnf+g9CeIXajaEDeGX7Ftae3ztU0vWsrdabsIlIY3F2euYT+3F57Zi2RO6w01/zj0zM+zc+poqjQ0stUljuvpvaynqIkS5eKxpGpbnVqasa5ywaf/GaXmJPKQB0Oa3P/Cx/iha4nRxXqkoSw/vK0AVVGX1naSEWGrfscW1bd2PWyLRC0URiwOyFFWe88VzcfjnN3CnufAvLF2/duYlXH/RS5YtumrVKhWJMUM1+fO1+fu9iURxk0AHdefdHB26T+wkChOFAISQUBUbG7FdUtU/PMEHNd0uzV99uj8erOocTME5skG13WoiPRwUst+ctdKjCoY/YNR/p1ebLPNkv8hVJBAGvGCSotLnSPFp772idt5sTEJMZCBLmhUoFInhDdpc5Gtcfq85O/j9ohFYgYotCbKE5OTLTZFtwjlucZWICcmvxrV2RUoBByoSGpv1DiL2Dl/CEViFgDj83h/fst5hnPpKLXDL65uckjqamMD+vg/LKBu76QVCjeExe3MUASKIJO550iyTmW6JnYvLUjmqlvZ0dUWLiL6MRtDdqUduhglEymUhY0X4Jzs37A+g3eAf7bY4Im7ZS57w5arDj9za6vQ7YHR34VWpB3/JeGOoP+Rp9RP/nGxIT2/14oq98WNLCu2BbtlPkfXiXe0L8BHYBufzqBjqAAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2585,7 +2590,7 @@ Spigot plugin maker</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2025, 00:03:28 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2025, 00:03:40 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
